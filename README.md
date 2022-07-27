@@ -14,11 +14,12 @@ git clone https://github.com/Cakurniawan/mlt_fin2_demoday.git
 
 ```python
 # file ipynb kami
-('demoday_v1.ipynb')
+1. ('demoday_v1.ipynb')
+2. ('demoday_v1.py')
 
 # file train dan test dari dts 2022
-('train.csv')
-('test.csv')
+2. ('train.csv')
+3. ('test.csv')
 
 # file dokumentasi kami
 1. ('Proposal_Template_Fintech_2_FINAL.docx')
