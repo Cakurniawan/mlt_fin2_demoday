@@ -50,4 +50,4 @@ Proyek yang akan dikerjakan terbatas pada dua point utama, yaitu melakukan ekspl
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/#)
