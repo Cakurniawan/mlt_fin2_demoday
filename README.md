@@ -50,4 +50,8 @@ Proyek yang akan dikerjakan terbatas pada dua point utama, yaitu melakukan ekspl
 ```
 
 ## License
+<<<<<<< HEAD
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/#)
+=======
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/#)
+>>>>>>> 16944e55c5824429547535dc8c48472c253bf2f3
