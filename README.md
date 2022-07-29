@@ -22,12 +22,12 @@ git clone https://github.com/Cakurniawan/mlt_fin2_demoday.git
 3. ('test.csv')
 
 # file dokumentasi kami
-1. ('Proposal_Template_Fintech_2_FINAL.docx')
-2. ('gantt_fin_2_v1.xlsx')
-3. ('Risk_Register_MLT2_DTS2022.xlsx')
-4. ('slide_demoday_v1.pptx')
-5. ('Final_Report_Template.docx')
-6. ('foto-foto kami pada grup discord')
+1. ('/dokumen/Proposal_Template_Fintech_2_FINAL.docx')
+2. ('/dokumen/gantt_fin_2_v1.xlsx')
+3. ('/dokumen/Risk_Register_MLT2_DTS2022.xlsx')
+4. ('/dokumen/slide_demoday_v1.pptx')
+5. ('/dokumen/Final_Report_Template.docx')
+6. ('/foto_teamwork/foto-foto kami pada grup discord')
 
 ```
 
